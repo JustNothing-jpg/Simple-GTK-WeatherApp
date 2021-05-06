@@ -1,0 +1,6 @@
+# Simple-GTK-WeatherApp
+
+VERY SIMPLE GTK WEATHER APPLICATION
+
+DEPENDENCIES:
+  ljson-c lcurl
