@@ -1,7 +1,7 @@
 #include <gtk/gtk.h>
 #include <unistd.h>
 #include <string.h>
-#include "w.c"
+#include "weather.c"
 
 GtkWidget *my_entry,*result;
 
