@@ -9,7 +9,7 @@
 #include <string.h>
 
 char website[] = "https://api.openweathermap.org/data/2.5/weather?q=";
-char api[] = "&appid=198cf54c95da5c727565a0fb6d6e2676" ;
+char api[] = "" ;
     
 
 struct memory{
